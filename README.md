@@ -1,16 +1,56 @@
-## Hi there 👋
+## 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=BI%CE%A3%D0%9FB%CE%A3%D0%9FID%D3%A8%C6%A7%20%CE%9B%20MI%20P%CE%A3%D0%AFFI%E1%84%82&fontSize=33&fontColor=hhhhh&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
-<!--
-**mars88x/mars88x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">me reporto</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="164" src="https://i.pinimg.com/736x/4f/d6/a0/4fd6a0ee201229277062a0c8b1d95812.jpg"  />
+
+###
+
+<p align="left">Mi código no es basura, es material radiactivo.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=2&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="47" src="https://i.pinimg.com/originals/8e/07/18/8e071836dc5d3f534138455fda54cc68.gif"  />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
