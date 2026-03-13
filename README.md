@@ -23,7 +23,6 @@
 
 ###
 
-<p align="left">Mi código no es basura, es material radiactivo.</p>
 
 ###
 
