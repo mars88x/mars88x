@@ -1,9 +1,4 @@
 ## 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=BI%CE%A3%D0%9FB%CE%A3%D0%9FID%D3%A8%C6%A7%20%CE%9B%20MI%20P%CE%A3%D0%AFFI%E1%84%82&fontSize=33&fontColor=hhhhh&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
 
 <h2 align="left"></h2>
 
